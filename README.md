@@ -51,8 +51,8 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tecnicoemerson&show_icons=true&bg_color=0b1633&border_color=1f3a7a&title_color=a9d4f5&icon_color=4aa3f0&text_color=dbeafe" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecnicoemerson&layout=compact&bg_color=0b1633&border_color=1f3a7a&title_color=a9d4f5&text_color=dbeafe" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZanLivX&show_icons=true&bg_color=0b1633&border_color=1f3a7a&title_color=a9d4f5&icon_color=4aa3f0&text_color=dbeafe" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanLivX&layout=compact&bg_color=0b1633&border_color=1f3a7a&title_color=a9d4f5&text_color=dbeafe" alt="Top languages" />
 </div>
 
 <div align="center">
